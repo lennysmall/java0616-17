@@ -15,7 +15,7 @@ public class AnimalTest {
 		AnimalTest test = new AnimalTest();
 		test.speaks(cat);
 		test.speaks(dog);
-		override.Dog dog2 = new override.Dog("호피", 5);
+//		override.Dog dog2 = new override.Dog("호피", 5);
 		
 //		test.speaks(dog2); 사용할수 없음 다른 패키지
 //		cat.speak();
