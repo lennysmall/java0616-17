@@ -7,10 +7,12 @@ public class AnimalTest {
 		Cat cat = new Cat("코",1);
 		Dog dog = new Dog("입",2);
 		Tiger tiger = new Tiger("눈",10);
+		RealBird bird = new RealBird("참새",1);
 		
 		cat.speak();
 		dog.speak();
 		tiger.speak();
+		bird.speak();
 		
 		Object obj = cat;
 		
